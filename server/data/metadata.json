@@ -1,0 +1,20 @@
+{
+  "totalDocuments": 26,
+  "types": [
+    "team",
+    "driver",
+    "circuit",
+    "regulation",
+    "history",
+    "season"
+  ],
+  "sources": [
+    "f1_teams",
+    "f1_drivers",
+    "f1_circuits",
+    "f1_regulations",
+    "f1_history",
+    "f1_current"
+  ],
+  "timestamp": "2025-08-26T19:11:42.792Z"
+}
